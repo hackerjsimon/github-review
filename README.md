@@ -23,7 +23,7 @@ I dont know the program but we can assume 2-3 examples of input.
 
 Examples 
 ```mermaid
-A[Input:"Summarize this article"] --> B[Output"Generated Content"]
+A[Input:"Summarize this article"] --> B[Output"Generated Content"] --> C[New request]
 C[Input2:"(Intentionally EMpty response)"] --> D[Output2"How the AI handles an empty input"]
 ```
 
